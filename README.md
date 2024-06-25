@@ -1,1 +1,1 @@
-# Project-of-Python
+# Project-of-Python Survival Duration calculator 
